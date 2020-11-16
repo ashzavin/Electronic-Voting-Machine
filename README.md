@@ -1,4 +1,4 @@
 # Electronic-Voting-Machine
 
-This project includes hardware design along with software interface that has presented here. You will find the project working procedures in this video link:
+This project includes hardware design along with software interface that has uploaded here. Hardware prototype uses Arduino mega, fingerprint sensor, touch screen module, GSM modem, etc. A database is designed on MYSQL server which is used to store the fingeprint templates generated through the fingerprint module, voter’s detailed information, list of candidates for specific election and other necessary information. A wired connection using ethernet shield and router is established for the database connection with Arduino. A user interface is designed using HTML, CSS, PHP, JavaScript and JQuery to access the data stored in the database and also to provide an integrated platform to the election controllers for the central control. You will find the project working procedures in this video link:
 https://www.youtube.com/watch?v=2qy1VSHo2NI
